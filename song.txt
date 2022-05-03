@@ -16,6 +16,3 @@ added a new line but made a typo
 text  
 PRrrrrrrrrr
 >>>>>>> 0e0e588c0b2d9dc978e3ad0bf1aa0d1cd26b8b6e
-
-
-I am learnig about Revert command
